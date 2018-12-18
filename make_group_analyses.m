@@ -7,7 +7,7 @@
 %%%%   Created:       September 2018 - November 2018
 %%%%   Adapted from:  https://github.com/wanderine/ParametricMultisubjectfMRI/blob/master/SPM/run_random_group_analyses_onesamplettest_1.m
 %%%%                  http://www.fil.ion.ucl.ac.uk/spm/data/face_rfx/
-%%%%                  https://github.com/wiktorolszowy/fMRI_temporal_autocorrelation/blob/master/make_group_analyses.m
+%%%%                  https://github.com/wiktorolszowy/fMRI_temporal_autocorrelation/blob/master/make_group_analyses_random_effects.m
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
