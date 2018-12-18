@@ -1,0 +1,6 @@
+study;                            TR;        npts;  totalVoxels;   n;    abbr;  task
+CamCAN_sensorimotor;              1.97;      261;   34209792;      621;  CAS;   sensorimotor
+CRIC_checkerboard;                2.008032;  160;   20971520;      70;   CRC;   checkerboard
+NKI_release_3_checkerboard_1400;  1.4;       98;    78675968;      30;   NCL;   checkerboard
+NKI_release_3_checkerboard_645;   0.645;     240;   52569600;      30;   NCS;   checkerboard
+BMMR_checkerboard;                3;         80;    91728000;      21;   BMM;   checkerboard
